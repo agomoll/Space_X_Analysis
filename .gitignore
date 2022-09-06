@@ -1,6 +1,7 @@
 # Added files
-.csv
-
+*.csv
+*.DS_Store
+my_data1.db
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
