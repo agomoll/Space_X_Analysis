@@ -19,4 +19,6 @@ First, data was collected by by sending a request to the Space X API to collect 
 <img src="Resources/dataframe_api.png">
 
 
-Second, data was collected by scraping launch records from the web using Beautifulsoup and parsing the data.
+Second, launch data was collected by scraping wiki Space X records from the web using Beautifulsoup. The data was then parsed into a dictionary and then stored in a Pandas DataFrame.
+
+<img src="Resources/webscraped_df.png">
