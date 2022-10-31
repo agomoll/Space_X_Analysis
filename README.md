@@ -14,6 +14,9 @@ This analysis aims to more accurately predict the price of each launch using dat
   
 
 ## Analysis
-The first analyis consisted of sending a request to the Space X API to collect data. The data was then cleaned and formatted for use. The API response was sent as a json containing a large volume of data. From this data, variables were created with list of information of interest and then converted to a pandas DataFrame. The data was then filtered to focus on Falcon9 launches and eliminate missing data. 
+First, data was collected by by sending a request to the Space X API to collect data. The data was then cleaned and formatted for use. The API response was sent as a json containing a large volume of data. From this data, variables were created with list of information of interest and then converted to a pandas DataFrame. The data was then filtered to focus on Falcon9 launches and eliminate missing data. 
 
 <img src="Resources/dataframe_api.png">
+
+
+Second, data was collected by scraping launch records from the web using Beautifulsoup and parsing the data.
