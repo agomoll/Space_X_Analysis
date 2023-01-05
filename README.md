@@ -28,3 +28,24 @@ Second, launch data was collected by scraping wiki Space X records from the web 
 
 
 <img src="Resources/pie_slc_40.png">
+
+
+<img src="Resources/launchsite_global.png">
+
+
+<img src="Resources/launchsite_outomes.png">
+
+
+<img src="Resources/payload_vs_launchsite_sctter.png">
+
+
+<img src="Resources/year_vs_successrate_line.png">
+
+
+<img src="Resources/fltnum_vs_launchsite_sctter.png">
+
+
+<img src="Resources/fltnum_vs_orbittype.png">
+
+
+<img src="Resources/fltnum_vs_payload_sctter.png">
