@@ -30,22 +30,28 @@ Second, launch data was collected by scraping wiki Space X records from the web 
 <img src="Resources/pie_slc_40.png">
 
 
+Launch Locations Map View
+
 <img src="Resources/launchsite_global.png">
 
+
+Landing Outcomes Color Coded
 
 <img src="Resources/launchsite_outomes.png">
 
 
-<img src="Resources/payload_vs_launchsite_sctter.png">
+Payload vs Launchsite (O=unsuccessful, 1=Successful)
+
+<img src="Resources/payload_vs_launchsite_sctter.png" width=50%>
 
 
-<img src="Resources/year_vs_successrate_line.png">
+<img src="Resources/year_vs_successrate_line.png" width=50%>
 
 
-<img src="Resources/fltnum_vs_launchsite_sctter.png">
+<img src="Resources/fltnum_vs_launchsite_sctter.png" width=50%>
 
 
-<img src="Resources/fltnum_vs_orbittype.png">
+<img src="Resources/fltnum_vs_orbittype.png" width=50%>
 
 
 <img src="Resources/fltnum_vs_payload_sctter.png">
