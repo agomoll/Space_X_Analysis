@@ -37,7 +37,13 @@ Launch Locations Map View
 
 Landing Outcomes Color Coded
 
-<img src="Resources/launchsite_outomes.png">
+
+Red = Unsuccessful
+
+
+Green = Successful
+
+<img src="Resources/launchsite_outomes.png" width=65%>
 
 
 Payload vs Launchsite (O=unsuccessful, 1=Successful)
@@ -45,7 +51,10 @@ Payload vs Launchsite (O=unsuccessful, 1=Successful)
 <img src="Resources/payload_vs_launchsite_sctter.png" width=50%>
 
 
+Success Rate Over Time
+
 <img src="Resources/year_vs_successrate_line.png" width=50%>
+
 
 
 <img src="Resources/fltnum_vs_launchsite_sctter.png" width=50%>
