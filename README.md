@@ -24,8 +24,12 @@ Second, launch data was collected by scraping wiki Space X records from the web 
 <img src="Resources/webscraped_df.png">
 
 
+Pie Chart Showing Successful Launches for All Sites
+
 <img src="Resources/pie_chart_all_sites.png">
 
+
+Pie Chart Filtered to Show Just Site SLC-40
 
 <img src="Resources/pie_slc_40.png">
 
